@@ -186,7 +186,7 @@ python -m app.run_queries
 
 ## 👨‍💻 Author
 
-**Tanumay Bhattacharya**
+**Tonumay Bhattacharya**
 
 ---
 
